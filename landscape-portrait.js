@@ -15,3 +15,4 @@ let checkWidthHeight3 = isLandscape(1024, 768);
 console.log('Landscape:',checkWidthHeight3);
 
 console.log('portraits are neat');
+console.log('portraits are neat 2');
