@@ -29,3 +29,4 @@ console.log('Who likes numbers? I do!');
 console.log('Who likes numbers? I do too!');
 console.log('Who likes numbers? I do three!');
 console.log('Who likes numbers? I do four!');
+console.log('Who likes numbers? I do five!');
