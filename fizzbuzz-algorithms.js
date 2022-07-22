@@ -52,3 +52,7 @@ console.log(checkFizzBuzz5);
 
 let checkFizzBuzz6 = isfizzBuzz(11);
 console.log(checkFizzBuzz6);
+
+console.log('feature-branch-old-test');
+console.log('feature-branch-old-test2');
+console.log('feature-branch-old-test3');
