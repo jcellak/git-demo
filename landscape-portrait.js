@@ -16,3 +16,4 @@ console.log('Landscape:',checkWidthHeight3);
 
 console.log('portraits are neat');
 console.log('portraits are neat 2');
+console.log('portraits are neat 3');
