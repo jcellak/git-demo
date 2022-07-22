@@ -24,3 +24,5 @@ console.log('Max Number:',checkMax2);
 
 let checkMax3 = findMaxNumber(100, 100);
 console.log('Max Number:',checkMax3);
+
+console.log('Who likes numbers? I do!');
